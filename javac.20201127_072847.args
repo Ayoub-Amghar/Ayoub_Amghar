@@ -1,0 +1,18 @@
+-d
+"C:\\Users\\kcorn\\Desktop\\Java. CSC 239\\BallPaddleGame\\build\\classes"
+-classpath
+"C:\\Users\\kcorn\\Desktop\\Java. CSC 239\\BallPaddleGame\\build\\classes"
+-sourcepath
+"C:\\Users\\kcorn\\Desktop\\Java. CSC 239\\BallPaddleGame\\src"
+-target
+13
+-encoding
+UTF-8
+-g
+-processorpath
+"C:\\Users\\kcorn\\Desktop\\Java. CSC 239\\BallPaddleGame\\build\\empty"
+-s
+"C:\\Users\\kcorn\\Desktop\\Java. CSC 239\\BallPaddleGame\\build\\generated-sources\\ap-source-output"
+-source
+13
+"C:\\Users\\kcorn\\Desktop\\Java. CSC 239\\BallPaddleGame\\src\\ballpaddlegame\\main.java"
